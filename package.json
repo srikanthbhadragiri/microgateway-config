@@ -18,7 +18,8 @@
     "js-yaml": "^3.5.4",
     "lodash": "^4.17.15",
     "request": "^2.87.0",
-    "resolve": "^1.8.1"
+    "resolve": "^1.8.1",
+    "redis": "0.10.x"
   },
   "scripts": {
     "lint": "eslint  ./lib index.js",
