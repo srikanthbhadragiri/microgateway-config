@@ -9,7 +9,7 @@
     "url": "git+https://github.com/apigee/microgateway-config.git"
   },
   "dependencies": {
-    "apigeetool": "^0.10.0",
+    "apigeetool": "^0.14.2",
     "async": "^1.5.2",
     "body-parser": "^1.15.0",
     "config": "^1.19.0",
